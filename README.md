@@ -197,7 +197,7 @@ bash start
 </details>
 
 <details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
+<summary><b>my id </b></summary>
 <br>
 
 - [┕━━☽【ﾚの√乇尺 乃のﾘ】☾━━┙](https://t.me/Shubhamsah1)
