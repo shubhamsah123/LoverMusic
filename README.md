@@ -2,7 +2,7 @@
 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐟𝐨𝐫 𝐝𝐞𝐩𝐥𝐨𝐲 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  
 𝐦𝐮𝐬𝐢𝐜 𝐛𝐨𝐭 <a href="https://t.me/LOVER_MUSIC_SUPPORT_GROUP">{𝕾𝖚𝖕𝖕𝖔𝖗𝖙 𝓛𝓸𝓿𝓮𝓻𝄟⃟🎸𝐦𝐮𝐬𝐢𝐜}</a>
 
-<a href="https://telegram.me/Shubhamsah1"><img src='https://www.linkpicture.com/q/IMG_20221218_074148_601.jpg' type='image'></a>
+<a href="https://telegram.me/Shubhamsah1"><img src='https://telegra.ph/file/cf7ff7d0fbf2c4bfb4330.jpg' type='image'></a>
 𝐈𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐭𝐡𝐞𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐦𝐞</br> 𝓣𝓮𝓵𝓮𝓰𝓻𝓪𝓶<a href="https://telegram.me/Shubhamsah1">
 {┕━━☽【ﾚの√乇尺 乃のﾘ】☾━━┙}</a></br>
 </br>
@@ -192,7 +192,7 @@ Edit .env with your values or you can simple copy a config from here and paste i
 Press I button on keyboard to start editing.
 Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.
 
-9. Finally Run Yukki Music Bot
+9. Finally Run Lover Music Bot
 
 bash start
 </details>
@@ -222,10 +222,10 @@ bash start
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/LOVER_MUSIC_SUPPORT_GROUP"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/The_chatting"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Lover_about"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/LOVER_MUSIC_SUPPORT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
@@ -236,7 +236,7 @@ bash start
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀʟᴇxᴀ:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ Lover Music:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
