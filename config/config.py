@@ -31,7 +31,8 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Lover-Music/LoverMusic")
+UPSTREAM_REPO = getenv(
+    "UPSTREAM_REPO", "https://github.com/Lover-Music/LoverMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
@@ -49,7 +50,8 @@ PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", "False")
 YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/shubhamsah1")
+GITHUB_REPO = getenv(
+    "GITHUB_REPO", "https://github.com/Lover-Music/LoverMusic")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
