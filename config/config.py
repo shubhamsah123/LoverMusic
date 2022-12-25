@@ -15,9 +15,9 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』")
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1548904516").split()))
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/t_c_c_network")
+    "SUPPORT_CHANNEL", "https://t.me/LOVER_MUSIC_SUPPORT")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/the_chatting")
+    "SUPPORT_GROUP", "https://t.me/LOVER_MUSIC_SUPPORT_GROUP")
 
 DURATION_LIMIT_MIN = int(
     getenv("DURATION_LIMIT", "59006")
@@ -31,10 +31,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO",
-    "https://github.com/SPARTENX-OP/VirusMusicBot",
-)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Lover-Music/LoverMusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
