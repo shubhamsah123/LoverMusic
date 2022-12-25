@@ -11,34 +11,58 @@
    
 <h2 align="center"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</br>  𝓓𝓮𝓹𝓵𝓸𝔂 𝓘𝓷 𝓥𝓟𝓢 𝓒𝓸𝓶𝓶𝓪𝓷𝓭𝓼</h2>
 
-#### vps Basic Commands 😂
+#### Local Hosting or VPS Commands 😂
 <details>
-<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
+<summary><b>Local Hosting or VPS ᴄᴍᴅs</b></summary>
 <br>
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg by :
-`sudo apt-get install python3-pip ffmpeg -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install Node js by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/Lover-Music/LoverMusic && cd LoverMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash start`
+-Local Hosting or VPS
+Supports Debian Based Only!
+ Deploying with Legacy Method:
+Get ready with atleast  in a .env  file.
+Not Getting?
+
+ ​
+1.  Upgrade and Update:
+
+sudo apt-get update && sudo apt-get upgrade -y
+
+2. Installing Required Packages:
+
+sudo apt-get install python3-pip ffmpeg -y
+
+3. Setting up PIP
+
+sudo pip3 install -U pip
+
+4. Installing Node
+
+curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+
+5. Clone the Repository
+
+git clone https://github.com/Lover-Music/LoverMusic &&  cd LoverMusic
+
+6. Install Requirements
+pip3 install -U -r requirements.txt
+
+7. Create .env  with sample.env
+
+cp sample.env .env
+
+Edit .env with your vars 
+
+8. Editing Vars:
+
+vi .env
+
+
+Edit .env with your values or you can simple copy a config from here and paste it to your notepad, then edit and paste there.
+Press I button on keyboard to start editing.
+Press Ctrl + C  once you are done with editing vars and type :wq to save .env or :qa to exit editing.
+
+9. Finally Run Yukki Music Bot
+
+bash start
 </details>
 
 
