@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH", "cc0fff577b677c9b2b4de5dd5bc5dfd1")
 BOT_TOKEN = getenv("BOT_TOKEN", "5983601762:AAFzzFW8TOIINpyUviMoBfT3NC8DXFvyPVo")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001822454080")
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝑳𝒐𝒗𝒆𝒓✘ℳ𝓾𝓼𝓲c")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Lover")
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1548904516").split()))
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/LOVER_MUSIC_SUPPORT")
