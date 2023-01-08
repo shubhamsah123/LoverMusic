@@ -9,10 +9,10 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "20594535"))
 API_HASH = getenv("API_HASH", "40d94b8c167104937b2846efa895bef7")
-BOT_TOKEN = getenv("BOT_TOKEN", "5983601762:AAHAXkfAZGIiUK3cZsN8o_ZwHT9oHp_RLNA")
+BOT_TOKEN = getenv("BOT_TOKEN", "5607218250:AAF5V7dFoSUFof0fjjNQ3PayQvcKXBlI0E0")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001583255537"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001899951693"))
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "『sona ✘ ℳ𝓾𝓼𝓲c͢˼』")
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "1548904516").split()))
 SUPPORT_CHANNEL = getenv(
@@ -74,8 +74,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 
 
-STRING1 = getenv("STRING_SESSION", "BQA5Zjp9z0qO-7z3SYCgPCe1tOdOlfHjam5bUostxZ6r84AFj6RyQReSK_ePuIQ8z2pkJ6Wv-SKY0XlwtneW22TfiW5seDzHtWGWkwW5j5nzJjTRxb_QykiUf42gSWpQ-BQuziiSaYQzRMeoBslFY1SUbGo7X594QZIEsyTmHZGLQRKuagdE-CUstG45tYVeu5O2FN-8iPL0QlsQpPlKhZmZ1h7o6z6WEKS0gcO2LxVPhXs_nrlo77e_K-p51VK8kl1fuGYATUCDDdD3PUevSzR_RZBYGa3uXqdCn3uczwcEQtXAs5xSjgj9x2BQMlD5ly4ItILMMS6h741hJYw_IRHXAAAAAUdVZxcA")
-STRING2 = getenv("STRING_SESSION2", "BQCREU1RwQrzQxdWMKhcSy3wT4OiE7auFxb1Ydxptw2qjrPzSkW7-Xtw1YnkVEWXvRCO4gZhli1LG_dWFtv4YyalKw7rc6IdACPsN3ms_w3H_T4e2xRLtUm0qU6_50tmT7eFPBmgQaEABeG1VJ9DUJq7G2rB5H-yx4JV8SsIuaq5fS5f_awKXUDNaGpSzxFkOtgnGr45AtoY-tpmElkxT9WDwmb53wWUoZdD4IAJvRgzhXUtAtXPDopbENpEh72rmdL5uP7pQ_Mq465PorMrqutYcG9mKA9vsSJLfmjj4J9qz223eP-lXqaRmrgwFReyK_1lCkhBGSwRFGDINYNjkhs7AAAAAVspF_cA")
+STRING1 = getenv("STRING_SESSION", "BQBVhN8whYXYIRiwGC0iQ0yWIRSkraaqIntyi_qWQU0o9U52wKdXvWi-8XnLlSb4kEf_w6LTr071_0r5nvGJPKd1E8aQJqUKss987W-OXXs_KdEn-QiRg8k3HN6IpMHFE_XgiZS8w-JVCmAPtoiSGwqNKBsp4qUs-uasQ6rjiyBAtEzod2_1qUy8pjgXf_eYkMmOUIQULb8gSEWNoHqeJoXsj4ueIbmSIF2wjXaQggw6Z3NU7H1eLeBYSYi2k6Bzql6Fg2rmZmxqLH4o_h6blLhNYtA-CR1IyBCMFW6S7NuCe8JnQ8C8XxfV-NOq5rEycwG1BGjbSo3ULw8r6qhy5w2CAAAAAVuuWxIA")
+STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
